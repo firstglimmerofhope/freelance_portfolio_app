@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429728678717",
+    "project_id": "freelance-portfolio-808f9",
+    "storage_bucket": "freelance-portfolio-808f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429728678717:android:ad3eb8839fd92201343b54",
+        "android_client_info": {
+          "package_name": "com.example.firebase_test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbtjvYjxhBAXfStJRxLVRHTBw7e8rplY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
