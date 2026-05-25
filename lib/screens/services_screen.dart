@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 class ServicesScreen extends StatelessWidget {
+
   const ServicesScreen({super.key});
 
   static final List<ServiceItem> services = [
@@ -229,6 +230,7 @@ class ServiceCard extends StatelessWidget {
   }
 }
 
+// ToolChip will be used in ServiceCard
 class ToolChip extends StatelessWidget {
   final String label;
 
